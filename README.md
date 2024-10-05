@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Adrian García Alcantara</h1>
-<h3 align="center">soy un Frontend apasionado de Perú</h3>
+<h3 align="center">soy un Backend apasionado de Perú</h3>
 
 [![Banner.png](https://i.postimg.cc/MZnMHfZT/Banner.png)](https://postimg.cc/3WHJbRv5)
 
